@@ -44,7 +44,7 @@ liciolog:pa0pa0
 classynchi:sadvceid-
 activeextra:$1$Dj$cwS5IspXiQ0rFNpLo20Xm/
 breakingum:$1$4b$52Har8Vn9xa7EwqSVxmNO0
-apenguinlead:$1$h3$r01Yl/u1WfuJQaln3ugXA1
-runestnam:$1$XO$JO8LTBkYLXr8LjH5Ar3441
+apenguinlead:le3E
+runestnam:juZV
 louthnso:$1$V3$j74U1s74upw.anBJ90dml1
 sparkbear:$1$Om$zQ74e6Wa9fZgQIVXGj6bC.
